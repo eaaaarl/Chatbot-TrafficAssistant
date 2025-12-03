@@ -1,0 +1,4 @@
+.env*
+venv
+road_data.xlsx
+__pycache__
